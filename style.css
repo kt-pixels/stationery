@@ -417,6 +417,7 @@ h2 {
   background-color: #dbdbdb;
     border-radius: 10px;
     border: 4px groove;
+  margin-inline: 8px;
 }
 
 .quantity{
